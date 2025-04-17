@@ -59,4 +59,49 @@ img {
   max-width: 100%;
   height: auto;
 }
+#home-content {
+  background-color: #fff;
+  padding: 2rem;
+}
 
+.banner-img {
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.divider-img {
+  margin: 2rem 0;
+}
+
+.intro-text {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.outro-text {
+  font-style: italic;
+  color: #666;
+}
+
+#audio-project {
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.kokichi-img {
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.audio-player {
+  margin: 1.5rem 0;
+  width: 100%;
+}
+
+#credits {
+  background-color: #f3f3f3;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
