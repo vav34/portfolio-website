@@ -1,2 +1,2 @@
-### Summary
-This website highlights both of my projects from the Composing Digital Media course. I included a home page, projects page, and a page for each project. I also included images and tried to use some CSS since it is interesting to me. 
+# Summary
+This website highlights the projects I have completed in ENGCMP 0610 Composing Digital Media. I learned how to construct html files to organize my information and css files to polish the appearance of my website. Overall, I had a lot of fun with this project, and I hope you enjoy! (please note: all image creds are in their corresponding html page)
